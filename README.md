@@ -1,29 +1,30 @@
-# Controle de Estoque – Logística
-
-Projeto desenvolvido para praticar lógica de programação e simular um sistema de controle de estoque,
-baseado na minha experiência real na área de logística.
-
-Sou estudante de Ciência da Computação em busca do primeiro emprego / estágio em TI.
-
-## 🎯 Objetivo
-Criar um sistema simples que represente situações reais de estoque, como:
+## 🎯 <span style="color:#0A1AFF;">Objetivo</span>
+Criar um sistema simples de controle de estoque que represente situações reais do dia a dia, como:
 - Cadastro de produtos  
 - Controle de quantidade  
 - Entrada e saída de itens  
-- Marcação de produtos vencidos  
+- Identificação de produtos vencidos  
 
-## 🛠️ Tecnologias utilizadas
+---
+
+## 🛠️ <span style="color:#0A1AFF;">Tecnologias utilizadas</span>
 - HTML  
 - CSS  
 - JavaScript  
 
-## 📚 O que aprendi com este projeto
-- Organização de arquivos  
-- Lógica de programação  
-- Manipulação de dados no JavaScript  
-- Estrutura básica de um sistema  
-- Publicação de projetos no GitHub  
+---
 
-## 🌐 Acesse o projeto
+## 📚 <span style="color:#0A1AFF;">O que aprendi com este projeto</span>
+- Lógica de programação  
+- Organização de arquivos  
+- Criação de regras simples  
+- Uso de JavaScript na prática  
+- Publicação no GitHub Pages  
+
+---
+
+## 🌐 <span style="color:#0A1AFF;">Acesse o projeto</span>
+👉 https://seuusuario.github.io/nome-do-repositorio/
+
 
 https://alex0silva.github.io/controle-estoque-logistica/
