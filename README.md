@@ -26,3 +26,4 @@ Criar um sistema simples que represente situações reais de estoque, como:
 
 ## 🌐 Acesse o projeto
 
+https://alex0silva.github.io/controle-estoque-logistica/
