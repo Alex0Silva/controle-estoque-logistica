@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>CigarStock</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🦇</text></svg>">
+</head>
+<body>
+  <header>
+    <h1>🦇 CigarStock</h1>
+    <p>Sistema inteligente de controle de cigarros</p>
+  </header>
+
+  <section class="form">
+    <select id="marca">
+      <option value="">Selecione a marca</option>
+      <option>Marlboro</option>
+      <option>Chesterfield</option>
+      <option>L&M</option>
+      <option>Parliament</option>
+      <option>Lucky Strike</option>
+      <option>Dunhill</option>
+      <option>Outros</option>
+    </select>
+
+    <input id="caixas" type="number" placeholder="Caixas">
+    <input id="macos" type="number" placeholder="Maços por caixa">
+    <input id="unidades" type="number" placeholder="Cigarros por maço">
+    <input id="validade" type="date">
+    <button onclick="adicionar()">Adicionar</button>
+  </section>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Marca</th>
+        <th>Total (unid.)</th>
+        <th>Validade</th>
+        <th>Status</th>
+        <th>Ações</th>
+      </tr>
+    </thead>
+    <tbody id="lista"></tbody>
+  </table>
+
+  <script src="script.js"></script>
+</body>
+</html>
